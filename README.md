@@ -10,7 +10,7 @@ I used **create-react-app** and **tailwindCSS** to create the a currency table, 
 1. Install
 
     ```
-    npm install
+    npm install -D
     ```
 
 
