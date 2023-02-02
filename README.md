@@ -1,11 +1,11 @@
-1. Install these packages
+1. Install
 
     ```
     npm install
     ```
 
 
-2. Start the server
+2. Start 
    ```
    npm start
    ```
