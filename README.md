@@ -1,4 +1,5 @@
-I used create-react-app and tailwindCSS to create the a currency chart, using the CoindeskAPI.
+## **Currency Table!**
+I used **create-react-app** and **tailwindCSS** to create the a currency table, using the **CoindeskAPI**.
 
 1. Install
 
